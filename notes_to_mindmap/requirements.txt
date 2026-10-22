@@ -1,0 +1,9 @@
+streamlit>=1.50
+spacy>=3.7
+keybert>=0.8
+sentence-transformers>=2.7
+transformers>=4.40
+torch
+sentencepiece
+scikit-learn
+pandas
